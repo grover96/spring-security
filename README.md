@@ -1,4 +1,4 @@
-# Angular 5+ JWT Authentication and OAuth 2 Spring Boot Application
+# Angular 5 JWT Authentication and OAuth 2 Spring Boot Application
 
  A full stack Spring Boot application using JWT authentication for an Angular 5+ single page application. The resources are only accessible with a valid JWT token passed through the header. The backend server integrates Spring Security with the use of a MySQL database for persistent storage.
  
