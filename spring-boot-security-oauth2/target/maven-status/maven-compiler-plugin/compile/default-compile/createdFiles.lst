@@ -1,0 +1,9 @@
+com/solstice/security/repository/UserRepository.class
+com/solstice/security/config/SecurityConfig.class
+com/solstice/security/config/ResourceServerConfig.class
+com/solstice/security/config/CorsConfig.class
+com/solstice/security/config/AuthorizationServerConfig.class
+com/solstice/security/model/User.class
+com/solstice/security/service/UserService.class
+com/solstice/security/controller/UserController.class
+com/solstice/security/Application.class
